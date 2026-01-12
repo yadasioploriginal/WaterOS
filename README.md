@@ -5,4 +5,4 @@ WaterOS 2025-2026 ©
 <br>
 ![image1](/img/1.png)
 <br>
-![image1](/img/2.png)
+![image2](/img/2.png)
